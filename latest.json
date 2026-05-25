@@ -2,5 +2,14 @@
   "version": "0.0.0",
   "notes": "No updates yet",
   "pub_date": "2026-05-25T00:00:00Z",
-  "platforms": {}
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "test",
+      "url": "https://raw.githubusercontent.com/Synterius/copybara-releases/main/latest.json"
+    },
+    "linux-x86_64": {
+      "signature": "test",
+      "url": "https://raw.githubusercontent.com/Synterius/copybara-releases/main/latest.json"
+    }
+  }
 }
