@@ -1,15 +1,15 @@
 {
-  "version": "0.0.0",
-  "notes": "No updates yet",
+  "version": "1.0.0",
+  "notes": "Copybara v1.0.0 release",
   "pub_date": "2026-05-25T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "test",
-      "url": "https://raw.githubusercontent.com/Synterius/copybara-releases/main/latest.json"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM3BvbDdSVExMODQ3alRBWGlURVAvT2IrTTBCYkpyR2dYaVBvbEhMWmx0NFFHa2hOaEdIcENyd3VYVDlYd3Rvem5KQUwwd1NiSG56U1FiZmxyMVZWQnVOMXMyNjcwU1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MjcxMjE4CWZpbGU6Q29weWJhcmFfMS4wLjBfeDY0LXNldHVwLmV4ZQpBeXJ5a1Q2OEFicHQrWVA0MjJTV3M0RFZnU2dLU0syQStPS3hIYmthMW5zMXZ1ZC9VbWtmNGl0cytJS3JYZEc2a3I3R2lId2Q4R3NCMUUyemNhUEhCQT09Cg==",
+      "url": "https://github.com/Synterius/copybara-releases/releases/download/v1.0.0/Copybara_1.0.0_x64-setup.exe"
     },
     "linux-x86_64": {
-      "signature": "test",
-      "url": "https://raw.githubusercontent.com/Synterius/copybara-releases/main/latest.json"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM3BvbDdSVExMOHljWVFmTG9UYXlsWVhFMEswUlJ1ZXFyUjg2azlFbnl1MjNOZVVKWmNUcGpJQ05WSlJUYXFJZDlXQlVsZDVvRGE4aUhiZXhFaWE5bDFYNVd4NElTZVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzE1NDY4CWZpbGU6Q29weWJhcmFfMS4wLjBfYW1kNjQuQXBwSW1hZ2UKVXdjNXEvTU9XTWpXVHI5K0hDVHo1OFZxdHZpdG5FaUxJdVJNUnlPMkJISXhncGk4SXN1MVBDdHVGMncyUEx1ek40UFpzSm9qWGZtNStRVWY0V0owRHc9PQo=",
+      "url": "https://github.com/Synterius/copybara-releases/releases/download/v1.0.0/Copybara_1.0.0_amd64.AppImage"
     }
   }
 }
