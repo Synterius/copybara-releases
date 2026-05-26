@@ -1,15 +1,15 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM3BvbDdSVExMOC94WlJpa1VWYXJZWWxDWExCS1k0QVE4ZnRZZFNHUzB3cCs1Z2dlS3pYa0VDdjltQmZScXE0UWxKUzVVOFdqU2dPck1MRXZUZVErSWE2K1ZBL2xMeGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzIwODkyCWZpbGU6Q29weWJhcmFfMS4wLjFfeDY0LXNldHVwLmV4ZQpNR2VLODUwMzZNaUJXdC9vOUZ4c3FveFYwRG1WRWV1TnBnc2pUSzdKcGdYZU9pWnd2Wm5UaUVRWVNBaUpENStCQVRIdXN0TlJBQytpRHdJSmxFL2JBQT09Cg==",
-                                             "url":  "https://github.com/Synterius/copybara-releases/releases/download/v1.0.1/Copybara_1.0.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM3BvbDdSVExMODA3bHdwTUd0citoZGY5L0pSODdqeFpHRS9vNjc2RXVZV2I5Y05HVmtsa2FscnFiaFdnNFgzdjVEa2JXejAxL2pRaEo5K2V5MHozYkxhdFF3RXM0endZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Nzc0MTU4CWZpbGU6Q29weWJhcmFfMS4wLjJfeDY0LXNldHVwLmV4ZQp4WnA5TXlCRGRMVlNjTU4wYzRIVzZBdkY3UTUvV3lwTWNQRUFQUTRQOW5pQmFtZGJOQzViSlpmbU01dGgwYS9KQzgrK3piR292MUxBQ1poK0NtTmRBZz09Cg==",
+                                             "url":  "https://github.com/Synterius/copybara-releases/releases/download/v1.0.2/Copybara_1.0.2_x64-setup.exe"
                                          },
                       "linux-x86_64":  {
-                                           "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM3BvbDdSVExMOC9qanhqRGRWNU1EaERPZWRJTDNrNi9URTM3cmpmZkp3NGN0ZlpPWXJKdW05Q1NzNDFKdm1KQkUyOVpDVGFZd1ZENmxSYUtabkIydlU0YXZkL25wZVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzIwNTI5CWZpbGU6Q29weWJhcmFfMS4wLjFfYW1kNjQuQXBwSW1hZ2UKZHJpekxPV3VVRVp4K3M1Z1YwK2w3VVlxb3gvZHhkSlh5RlhRcW5NblN5MmE0MlZCZFU0TGhzb0VudndVMGZlelpoQXdQVlg3d012akVCWmRyY1NoQ0E9PQo=",
-                                           "url":  "https://github.com/Synterius/copybara-releases/releases/download/v1.0.1/Copybara_1.0.1_amd64.AppImage"
+                                           "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUM3BvbDdSVExMODhFRHAzZmwxbWpJZk8zSkZYNVdFVXBuOXpzeCtjN2lmd2UwanpLbndhK2t2VWpvRFFZa21vMjRkWmVUMkxqSjJTZlFXK1hERk94UksyanY5dllBdmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzI1MDMxCWZpbGU6Q29weWJhcmFfMS4wLjJfYW1kNjQuQXBwSW1hZ2UKUXFMOHdEVEx4cnZSai9mWWU2MGFXUHRISG13TkovRTFIRG9BMVZpQXdLd1k1cXFQZUV4U0UxQnEvZ1puZ0xkODdteFJVVlpyZWdTNi82L2JQNzVBQkE9PQo=",
+                                           "url":  "https://github.com/Synterius/copybara-releases/releases/download/v1.0.2/Copybara_1.0.2_amd64.AppImage"
                                        }
                   },
-    "pub_date":  "2026-05-25T15:24:23Z",
-    "version":  "1.0.1",
-    "notes":  "Copybara v1.0.1"
+    "pub_date":  "2026-05-26T06:10:28Z",
+    "version":  "1.0.2",
+    "notes":  "Copybara v1.0.2"
 }
